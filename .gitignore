@@ -1,0 +1,22 @@
+/build/
+/dist/
+/nbproject/private/
+
+# NetBeans
+nbproject/private.xml
+nbproject/private.properties
+
+# Java build artifacts
+*.class
+
+# Local dependency jars (download via scripts/download-libs.ps1)
+/lib/*.jar
+
+# IDE/editor
+/.vscode/
+/.idea/
+*.iml
+
+# OS
+Thumbs.db
+Desktop.ini
